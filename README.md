@@ -3,7 +3,7 @@ A collection of components for Altium CAD software. Both self-made and modified 
 
 
 #### Components:
-These are all the components/schematic symols in the library. If there is an associated footprint it is named in parentheses, multiple footprints are seperated by '||'
+These are all the components/schematic symols in the library. If there is an associated footprint it is named in parentheses, multiple footprints are seperated by `||`
 
 [//]: # (Use '&nbsp;' instead of space when offsetting paranthesis)
 
